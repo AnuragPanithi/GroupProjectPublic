@@ -1,4 +1,4 @@
-#!/Users/apanithi@unomaha.edu/Documents/GitHub/GroupProject/env/bin/python3
+#!/Users/apanithi@unomaha.edu/Documents/GitHub/GroupProjectPublic/env/bin/python
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
